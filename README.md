@@ -1,7 +1,16 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am tselest!
+<h1 align='center'>
+Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am tselest!
+</h1>
+  
+<p align='center'>
+<a href="https://www.linkedin.com/in/vstraitouris90">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/tselestet">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 
-![https://twitter.com/tselestet](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ![https://www.linkedin.com/in/vstraitouris90](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+</p>
 
 <!--
 **tselest/tselest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
