@@ -12,6 +12,8 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 </p>
 
+I am Biomechanical Engineer, passionate about learning new technologies. My main interests involve python programming, machine and deep learning. 👨🏻‍💻
+
 <!--
 **tselest/tselest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
