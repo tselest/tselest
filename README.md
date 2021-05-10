@@ -14,13 +14,16 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 I am Biomechanical Engineer, passionate about learning new technologies. My main interests involve python programming, machine and deep learning. 👨🏻‍💻
 
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning data science
+
 <!--
 **tselest/tselest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning data science
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
